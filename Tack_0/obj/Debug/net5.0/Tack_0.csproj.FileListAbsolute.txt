@@ -1,0 +1,16 @@
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\Tack_0.csprojAssemblyReference.cache
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\Tack_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\Tack_0.AssemblyInfoInputs.cache
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\Tack_0.AssemblyInfo.cs
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\Tack_0.csproj.CoreCompileInputs.cache
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\bin\Debug\net5.0\Tack_0.exe
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\bin\Debug\net5.0\Tack_0.deps.json
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\bin\Debug\net5.0\Tack_0.runtimeconfig.json
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\bin\Debug\net5.0\Tack_0.runtimeconfig.dev.json
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\bin\Debug\net5.0\Tack_0.dll
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\bin\Debug\net5.0\ref\Tack_0.dll
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\bin\Debug\net5.0\Tack_0.pdb
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\Tack_0.dll
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\ref\Tack_0.dll
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\Tack_0.pdb
+C:\Projects\Online-school\GeekBrains\3. Знакомство с языками программирования\Seminar_C#\Seminar_one\Tack_0\obj\Debug\net5.0\Tack_0.genruntimeconfig.cache
