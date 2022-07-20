@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qrVjj7dyuGngS2PlXVxVrJusk3j9H4vL2YC+dQNHOf5SnhiMpavRHmIifnTLPHg/2sNS43XihsWIW/05UlLPGQ==",
+  "dgSpecHash": "g9bw4snwagzfyywuUq4akwA27o5Lnyws9WOeghq+CI5AKuOOkNhH9hwrpMY9rvRRMxGAYc3eBc4bWJ1CZm5Ofw==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Online-school\\GeekBrains\\3. Знакомство с языками программирования\\Seminar_C#\\Seminar_one\\Tack_0\\Tack_0.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\R-Tup\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
