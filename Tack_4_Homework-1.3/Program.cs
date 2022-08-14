@@ -17,7 +17,7 @@ int[] GetRandomArray(int arrayLength)
 void WriteRandomArrayToConsole(int[] numbers)
 {   
     Console.Clear();
-    Console.Write("[");
+    Console.Write("Массив: [");
     for (int i = 0; i < numbers.Length; i++)
     {   
         Console.Write(numbers[i]);
