@@ -24,7 +24,7 @@ void WriteArray(int[,,] threeDimensionalArray)
     for (int i = 0; i < threeDimensionalArray.GetLength(0); i++)
     {
         for (int j = 0; j < threeDimensionalArray.GetLength(1); j++)
-        {   
+        {
             Console.Write($"x({i}) y({j}) ");
             for (int k = 0; k < threeDimensionalArray.GetLength(2); k++)
             {
@@ -74,3 +74,4 @@ void CreateArray(int[,,] threeDimensionalArray)
 
 CreateArray(threeDimensionalArray);
 WriteArray(threeDimensionalArray);
+
